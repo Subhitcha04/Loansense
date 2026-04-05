@@ -385,25 +385,3 @@ Each attempt is logged with HTTP status code. Mirrors industry-standard webhook 
 
 ---
 
-## Resume Bullets
-
-```
-• Built LoanSense, a full-stack loan origination platform with an XGBoost credit
-  risk scoring model (AUC-ROC 0.841, trained on German Credit Dataset), risk-based
-  interest rate assignment (8.5/13/18% by tier), and automated EMI schedule
-  generation using reducing-balance amortisation.
-
-• Designed FastAPI REST APIs for the full loan lifecycle with Pydantic-validated
-  schemas, idempotent POST endpoints, a daily APScheduler job for overdue detection,
-  and a webhook delivery system with exponential backoff retry (0s → 5min → 30min).
-
-• Built a React portfolio dashboard with Recharts visualisations — collection rate,
-  default rate, risk distribution donut, repayment trends — and per-loan amortisation
-  tables with real-time EMI payment tracking and XGBoost feature importance breakdown.
-```
-
----
-
-## License
-
-MIT © 2024
