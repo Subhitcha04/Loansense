@@ -13,11 +13,17 @@ A full-stack fintech platform where borrowers apply for loans and the system aut
 
 ## Screenshots
 
-> **Dashboard** — KPI cards, weekly disbursements, risk tier donut, repayment trends
->
-> *(Add screenshots to `/screenshots` after running the app)*
+### Portfolio Dashboard
+![Dashboard](screenshots/dashboard.png)
 
----
+### Loan Applications
+![Applications](screenshots/applications.png)
+
+### Repayment Tracker
+![Loans](screenshots/loans.png)
+
+### Webhook Management
+![Webhooks](screenshots/webhooks.png)
 
 ## Architecture
 
